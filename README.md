@@ -6,8 +6,6 @@ Email: diegoa_costa@outlook.com
 
 Me chamo Diego Costa, tenho 33 anos e trabalho com TI a quase 3 anos.
 
-Apaixonado pela entrega final para o cliente, sempre trabalhando focado em entregar soluções simples e que façam sentido para o usuário.
-
 Profissional de TI com experiência em análise, desenvolvimento, testes e suporte de sistemas.
 
 Conhecimento em linguagens de programação como Java, JavaScript, Kotlin e Flutter, além de bancos de dados como MongoDB, MySQL e Oracle SQL.
